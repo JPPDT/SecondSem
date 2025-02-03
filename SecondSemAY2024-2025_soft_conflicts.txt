@@ -1,0 +1,10 @@
+﻿Soft conflicts of SecondSemAY2024-2025.fet
+Generated with FET 6.22.1 on 2/3/25 1:33 PM
+
+Number of broken soft constraints: 0
+Total soft conflicts: 0
+
+Soft conflicts list (in decreasing order):
+
+
+End of file.
