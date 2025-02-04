@@ -149,16 +149,16 @@
      
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="107"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="107"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="107"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="107"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -199,16 +199,16 @@
      
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="107"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="107"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="107"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="107"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
      
@@ -518,16 +518,16 @@
      
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="108"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="108"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="108"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="108"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:30-15:00">
      <Activity id="96"></Activity><Teacher name="Jessica Avon Quezada"></Teacher><Subject name="GNED 14"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -616,16 +616,16 @@
      
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="108"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="108"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="108"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="108"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30-18:00">
      
@@ -2476,16 +2476,16 @@
      
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="149"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="149"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="149"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="149"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:30-20:00">
      
@@ -2511,16 +2511,16 @@
      
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="140"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="140"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="140"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="140"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00-12:30">
      
@@ -2656,31 +2656,31 @@
      
     </Hour>
     <Hour name="07:30-08:00">
-     
+     <Activity id="149"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="08:00-08:30">
-     
+     <Activity id="149"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="08:30-09:00">
-     
+     <Activity id="149"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:00-09:30">
-     
+     <Activity id="149"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:30-10:00">
      
     </Hour>
     <Hour name="10:00-10:30">
-     
+     <Activity id="140"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="140"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="140"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="140"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="12:00-12:30">
      <Activity id="43"></Activity><Teacher name="Efren G. Peñaflorida"></Teacher><Subject name="EDUC 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -3061,22 +3061,22 @@
      
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="150"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="150"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="150"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="141"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="150"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="141"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:00-10:30">
-     
+     <Activity id="141"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="141"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:00-11:30">
      
@@ -3091,16 +3091,16 @@
      <Activity id="15"></Activity><Teacher name="Christian Joy G. Sebastian"></Teacher><Subject name="FITT 2"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="150"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="150"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="150"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="150"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
      
@@ -3162,16 +3162,16 @@
      
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="141"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00-12:30">
-     <Activity id="141"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="141"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="141"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:30-14:00">
      
@@ -3469,7 +3469,7 @@
      
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="109"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:30-10:00">
      <Activity id="109"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -3481,7 +3481,7 @@
      <Activity id="109"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="109"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:30-12:00">
      
@@ -3496,16 +3496,16 @@
      
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="151"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="151"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="151"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="151"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:30-16:00">
      <Activity id="86"></Activity><Teacher name="Jenilyn D. Tangalin"></Teacher><Subject name="EDUC 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -3517,16 +3517,16 @@
      <Activity id="86"></Activity><Teacher name="Jenilyn D. Tangalin"></Teacher><Subject name="EDUC 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="151"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="151"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="151"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="151"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:00-19:30">
      
@@ -4525,16 +4525,16 @@
      
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="102"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="102"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="102"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="102"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:00-13:30">
      <Activity id="68"></Activity><Teacher name="Ronnie C. Daef"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -4632,16 +4632,16 @@
      
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="102"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="102"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="102"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="102"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30-18:00">
      
@@ -5016,16 +5016,16 @@
      
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="103"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="103"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="103"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="103"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30-15:00">
      
@@ -5179,16 +5179,16 @@
      
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="103"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="103"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="103"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="103"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
      
@@ -5320,16 +5320,16 @@
      
     </Hour>
     <Hour name="09:30-10:00">
-     
+     <Activity id="104"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:00-10:30">
-     
+     <Activity id="104"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="104"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="104"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:30-12:00">
      
@@ -5516,16 +5516,16 @@
      
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="104"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="104"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="104"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="104"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30-18:00">
      <Activity id="181"></Activity><Teacher name="Janoos Paraso Rapanut"></Teacher><Subject name="ITEC 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
@@ -5870,16 +5870,16 @@
      
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="153"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="153"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="153"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="153"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:30-10:00">
      
@@ -5947,16 +5947,16 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="07:00-7:30">
-     
+     <Activity id="146"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="07:30-08:00">
-     
+     <Activity id="146"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="08:00-08:30">
-     
+     <Activity id="146"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="08:30-09:00">
-     
+     <Activity id="146"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:00-09:30">
      
@@ -6010,16 +6010,16 @@
      
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="153"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:00-18:30">
-     
+     <Activity id="153"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="153"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:00-19:30">
-     
+     <Activity id="153"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:30-20:00">
      
@@ -6247,16 +6247,16 @@
      
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="146"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="146"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="146"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="146"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:00-19:30">
      
@@ -7822,16 +7822,16 @@
      
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="154"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="154"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="154"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="154"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:30-14:00">
      
@@ -7843,19 +7843,19 @@
      
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="145"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="147"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="BSEE 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="145"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="147"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="BSEE 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="145"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="147"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="BSEE 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="145"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="147"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="BSEE 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30-18:00">
      <Activity id="85"></Activity><Teacher name="Jenilyn D. Tangalin"></Teacher><Subject name="BSEE 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -7887,28 +7887,28 @@
      <Activity id="80"></Activity><Teacher name="Jackielyn Caballero"></Teacher><Subject name="FITT 4"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:00-09:30">
-     
+     <Activity id="155"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="BSEE 39"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:30-10:00">
-     
+     <Activity id="155"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="BSEE 39"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:00-10:30">
-     
+     <Activity id="155"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="BSEE 39"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="155"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="BSEE 39"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="145"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="145"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00-12:30">
-     <Activity id="145"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="145"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:00-13:30">
      
@@ -7932,19 +7932,19 @@
      
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="155"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="BSEE 39"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="155"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="BSEE 39"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="147"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="BSEE 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="155"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="BSEE 39"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="147"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="BSEE 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="155"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="BSEE 39"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="147"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="BSEE 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="147"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="BSEE 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:00-19:30">
      
@@ -8130,16 +8130,16 @@
      
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="154"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="154"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="154"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="154"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30-12:00">
      
@@ -8310,7 +8310,7 @@
      
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="105"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:00-13:30">
      <Activity id="105"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -8322,7 +8322,7 @@
      <Activity id="105"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="105"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00-15:30">
      
@@ -8366,16 +8366,16 @@
      
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="144"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="144"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="144"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="144"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30-11:00">
      
@@ -8461,16 +8461,16 @@
      <Activity id="45"></Activity><Teacher name="Efren G. Peñaflorida"></Teacher><Subject name="BSEM 36"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="152"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="152"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="152"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="152"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:00-13:30">
      <Activity id="72"></Activity><Teacher name="Ronnie C. Daef"></Teacher><Subject name="BSEM 30"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -8488,22 +8488,22 @@
      
     </Hour>
     <Hour name="15:30-16:00">
-     
+     <Activity id="144"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="144"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="152"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="144"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="152"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="144"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="EDUC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="152"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="152"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="GNED 15"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:30-19:00">
      
@@ -8878,16 +8878,16 @@
      
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="142"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="142"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="142"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="142"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:30-16:00">
      
@@ -8905,16 +8905,16 @@
      
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="142"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="142"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="142"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="142"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -9404,16 +9404,16 @@
      
     </Hour>
     <Hour name="07:30-08:00">
-     
+     <Activity id="143"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="08:00-08:30">
-     
+     <Activity id="143"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="08:30-09:00">
-     
+     <Activity id="143"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:00-09:30">
-     
+     <Activity id="143"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:30-10:00">
      <Activity id="240"></Activity><Teacher name="Richelle Rozol"></Teacher><Subject name="ITEC 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -9547,16 +9547,16 @@
      <Activity id="183"></Activity><Teacher name="Janoos Paraso Rapanut"></Teacher><Subject name="ITEC 60"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="143"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="143"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="143"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="143"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="GNED 08"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Saturday">
@@ -10321,7 +10321,7 @@
      
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="248"></Activity><Teacher name="Debbie Rose B. Fabian"></Teacher><Subject name="MKTG 111"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:30-14:00">
      <Activity id="248"></Activity><Teacher name="Debbie Rose B. Fabian"></Teacher><Subject name="MKTG 111"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -10333,7 +10333,7 @@
      <Activity id="248"></Activity><Teacher name="Debbie Rose B. Fabian"></Teacher><Subject name="MKTG 111"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="248"></Activity><Teacher name="Debbie Rose B. Fabian"></Teacher><Subject name="MKTG 111"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30-16:00">
      
@@ -10723,7 +10723,7 @@
      <Activity id="249"></Activity><Teacher name="Debbie Rose B. Fabian"></Teacher><Subject name="MKTG 111"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="261"></Activity><Teacher name="Mary Rose E. Elamparo"></Teacher><Subject name="MKTG 116"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:30-14:00">
      <Activity id="261"></Activity><Teacher name="Mary Rose E. Elamparo"></Teacher><Subject name="MKTG 116"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -10735,7 +10735,7 @@
      <Activity id="261"></Activity><Teacher name="Mary Rose E. Elamparo"></Teacher><Subject name="MKTG 116"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="261"></Activity><Teacher name="Mary Rose E. Elamparo"></Teacher><Subject name="MKTG 116"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:30-16:00">
      
@@ -11392,16 +11392,16 @@
      
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="148"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="BSEE 38"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:00-18:30">
-     
+     <Activity id="148"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="BSEE 38"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="148"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="BSEE 38"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:00-19:30">
-     
+     <Activity id="148"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="BSEE 38"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:30-20:00">
      
@@ -11531,16 +11531,16 @@
      
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="148"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="BSEE 38"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="148"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="BSEE 38"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="148"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="BSEE 38"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="148"></Activity><Teacher name="Sharmaine M. Banate"></Teacher><Subject name="BSEE 38"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00-16:30">
      
@@ -11847,16 +11847,16 @@
      
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="106"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="106"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="106"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="106"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00-15:30">
      
@@ -11903,16 +11903,16 @@
      
     </Hour>
     <Hour name="09:00-09:30">
-     
+     <Activity id="106"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:30-10:00">
-     
+     <Activity id="106"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:00-10:30">
-     
+     <Activity id="106"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="106"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:00-11:30">
      
@@ -16111,10 +16111,10 @@
      
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="156"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 198"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="156"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 198"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00-15:30">
      <Activity id="156"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 198"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -16123,10 +16123,10 @@
      <Activity id="156"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 198"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="156"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 198"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="156"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 198"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:00-17:30">
      
@@ -16534,16 +16534,16 @@
      
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="157"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 198"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:00-18:30">
-     
+     <Activity id="157"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 198"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="157"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 198"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:00-19:30">
-     
+     <Activity id="157"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 198"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:30-20:00">
      
@@ -16774,16 +16774,16 @@
      
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="157"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 198"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="157"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 198"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="157"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 198"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="157"></Activity><Teacher name="Sheena M. Banate"></Teacher><Subject name="EDUC 198"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:30-20:00">
      
