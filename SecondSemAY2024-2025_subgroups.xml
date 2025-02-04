@@ -143,10 +143,10 @@
      
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="107"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="107"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:00-18:30">
      <Activity id="107"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -155,10 +155,10 @@
      <Activity id="107"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:00-19:30">
-     
+     <Activity id="107"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:30-20:00">
-     
+     <Activity id="107"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -613,7 +613,7 @@
      
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="108"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30-16:00">
      <Activity id="108"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -625,7 +625,7 @@
      <Activity id="108"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="108"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:30-18:00">
      
@@ -1937,16 +1937,16 @@
      
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="252"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="252"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="252"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="252"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:00-10:30">
      
@@ -1970,16 +1970,16 @@
      
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="252"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="252"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="252"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="252"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:30-16:00">
      
@@ -3469,16 +3469,16 @@
      
     </Hour>
     <Hour name="09:00-09:30">
-     
+     <Activity id="109"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:30-10:00">
-     
+     <Activity id="109"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:00-10:30">
-     
+     <Activity id="109"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="109"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:00-11:30">
      
@@ -3493,16 +3493,16 @@
      
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="109"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="109"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="109"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="109"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 06"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00-15:30">
      
@@ -4626,10 +4626,10 @@
      <Activity id="187"></Activity><Teacher name="Jepre M. Dinglasan"></Teacher><Subject name="DCIT 23"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="102"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="102"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30-16:00">
      <Activity id="102"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -4638,10 +4638,10 @@
      <Activity id="102"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="102"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="102"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:30-18:00">
      
@@ -5016,16 +5016,16 @@
      
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="103"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="103"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="103"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="103"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:30-15:00">
      
@@ -5037,16 +5037,16 @@
      
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="103"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="103"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="103"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="103"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:00-18:30">
      <Activity id="215"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="DCIT 23"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
@@ -5507,25 +5507,25 @@
      <Activity id="128"></Activity><Teacher name="Micah Sanchez"></Teacher><Subject name="GNED 12"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="104"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="104"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="104"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30-16:00">
      <Activity id="104"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="104"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="104"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="104"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="GNED 03"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:30-18:00">
      <Activity id="181"></Activity><Teacher name="Janoos Paraso Rapanut"></Teacher><Subject name="ITEC 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
@@ -6391,16 +6391,16 @@
      
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="254"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="254"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="254"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:30-16:00">
-     
+     <Activity id="254"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
      
@@ -6524,16 +6524,16 @@
      
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="254"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="254"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="254"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="254"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30-12:00">
      <Activity id="268"></Activity><Teacher name="Ivern S. Bautista"></Teacher><Subject name="TAXN 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -6991,16 +6991,16 @@
    </Day>
    <Day name="Thursday">
     <Hour name="07:00-7:30">
-     <Activity id="255"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="255"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="255"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="255"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:00-09:30">
      <Activity id="263"></Activity><Teacher name="Isaiah Jacob O. Carolino"></Teacher><Subject name="MKTG 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -7021,16 +7021,16 @@
      
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="255"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="255"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="255"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="255"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:00-14:30">
      <Activity id="10"></Activity><Teacher name="Anacleto Marcelino"></Teacher><Subject name="GNED 14"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -7313,16 +7313,16 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="07:00-7:30">
-     <Activity id="253"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="253"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="253"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="253"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:00-09:30">
      
@@ -7396,16 +7396,16 @@
      
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="256"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="256"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="256"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="256"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:30-10:00">
      
@@ -7447,16 +7447,16 @@
      <Activity id="28"></Activity><Teacher name="Christian Joy G. Sebastian"></Teacher><Subject name="FITT 4"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="256"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="256"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="256"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="256"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:00-18:30">
      
@@ -7515,16 +7515,16 @@
      
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="253"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="253"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="253"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:30-16:00">
-     
+     <Activity id="253"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
      
@@ -8292,16 +8292,16 @@
      
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="105"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="105"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="105"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="105"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30-12:00">
      
@@ -8313,16 +8313,16 @@
      
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="105"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="105"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="105"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="105"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
      
@@ -11826,16 +11826,16 @@
      
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="106"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="106"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="106"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="106"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30-12:00">
      
@@ -11847,16 +11847,16 @@
      
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="106"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="106"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="106"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="106"></Activity><Teacher name="Ma. Woodelyn Reyes"></Teacher><Subject name="BSEM 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
      
@@ -12583,31 +12583,31 @@
      
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="56"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="56"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="56"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="56"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00-17:30">
      
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="56"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:00-18:30">
-     
+     <Activity id="56"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="56"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:00-19:30">
-     
+     <Activity id="56"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:30-20:00">
      
@@ -13124,28 +13124,28 @@
      <Activity id="162"></Activity><Teacher name="Audrey Gerard D. Advincula"></Teacher><Subject name="ITEC 100"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="57"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00-12:30">
-     <Activity id="57"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="57"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="57"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="57"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="57"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="57"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="57"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:30-16:00">
      
@@ -13695,10 +13695,10 @@
      
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="58"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="58"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:00-14:30">
      <Activity id="58"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -13707,10 +13707,10 @@
      <Activity id="58"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="58"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="58"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00-16:30">
      
@@ -13987,28 +13987,28 @@
      
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="30"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="30"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="30"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="30"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:00-10:30">
-     
+     <Activity id="32"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="32"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="32"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="32"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="12:00-12:30">
      
@@ -14100,19 +14100,19 @@
      
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="32"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="32"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="32"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="32"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30-16:00">
-     
+     <Activity id="60"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
      <Activity id="60"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -14124,7 +14124,7 @@
      <Activity id="60"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="60"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:00-18:30">
      
@@ -14272,16 +14272,16 @@
      
     </Hour>
     <Hour name="15:30-16:00">
-     
+     <Activity id="30"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="30"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="30"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="30"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:30-18:00">
      <Activity id="41"></Activity><Teacher name="John Daniel V. Cap-atan"></Teacher><Subject name="GNED 07"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -14529,16 +14529,16 @@
      <Activity id="117"></Activity><Teacher name="Mary Joy Angelique R. Mojica"></Teacher><Subject name="EDUC 198"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="33"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="33"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="33"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="33"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -14570,16 +14570,16 @@
      
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="31"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="31"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="31"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="31"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:30-14:00">
      
@@ -14603,16 +14603,16 @@
      <Activity id="42"></Activity><Teacher name="John Daniel V. Cap-atan"></Teacher><Subject name="GNED 07"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="33"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="33"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:00-18:30">
-     
+     <Activity id="33"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="33"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:00-19:30">
      
@@ -14816,16 +14816,16 @@
      
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="31"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="31"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="31"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="31"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30-15:00">
      
@@ -15995,16 +15995,16 @@
      
     </Hour>
     <Hour name="08:00-08:30">
-     
+     <Activity id="62"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="08:30-09:00">
-     
+     <Activity id="62"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:00-09:30">
-     
+     <Activity id="62"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:30-10:00">
-     
+     <Activity id="62"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:00-10:30">
      
@@ -16037,31 +16037,31 @@
      
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="35"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:30-16:00">
-     
+     <Activity id="35"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="35"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="35"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:00-17:30">
      
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="35"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="35"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="35"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="35"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:30-20:00">
      
@@ -16096,16 +16096,16 @@
      
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="34"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="34"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="34"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="34"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:30-14:00">
      
@@ -16135,16 +16135,16 @@
      
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="62"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="62"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="62"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="62"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -16212,16 +16212,16 @@
      
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="34"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="34"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="34"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="34"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:30-20:00">
      
@@ -16412,16 +16412,16 @@
      
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="63"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="63"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="63"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:00-12:30">
-     <Activity id="63"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:30-13:00">
      
@@ -16471,16 +16471,16 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="07:00-7:30">
-     <Activity id="37"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="38"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="37"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="38"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="37"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="38"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="37"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="38"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:00-09:30">
      
@@ -16560,16 +16560,16 @@
      
     </Hour>
     <Hour name="08:30-09:00">
-     
+     <Activity id="63"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:00-09:30">
-     
+     <Activity id="63"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:30-10:00">
-     
+     <Activity id="63"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:00-10:30">
-     
+     <Activity id="63"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:30-11:00">
      
@@ -16605,16 +16605,16 @@
      
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="37"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="37"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="37"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="37"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:00-18:30">
      
@@ -16717,16 +16717,16 @@
      
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="38"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="38"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="38"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="38"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:00-10:30">
      <Activity id="40"></Activity><Teacher name="John Daniel V. Cap-atan"></Teacher><Subject name="GNED 07"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -16873,28 +16873,28 @@
   <Subgroup name="BSE-M 4-1">
    <Day name="Monday">
     <Hour name="07:00-7:30">
-     
+     <Activity id="29"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="07:30-08:00">
-     
+     <Activity id="29"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="08:00-08:30">
-     
+     <Activity id="29"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="08:30-09:00">
-     
+     <Activity id="29"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:00-09:30">
-     
+     <Activity id="64"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 07"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:30-10:00">
-     
+     <Activity id="64"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 07"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:00-10:30">
-     
+     <Activity id="64"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 07"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="64"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 07"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:00-11:30">
      
@@ -16924,16 +16924,16 @@
      
     </Hour>
     <Hour name="15:30-16:00">
-     
+     <Activity id="59"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="59"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="59"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="59"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:30-18:00">
      
@@ -16995,16 +16995,16 @@
      
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="64"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 07"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="64"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 07"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="64"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 07"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="64"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 07"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00-16:30">
      
@@ -17042,16 +17042,16 @@
      
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="59"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="36"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="59"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="36"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="59"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="36"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="59"></Activity><Teacher name="Ronnel Jul Sebastian"></Teacher><Subject name="GNED 09"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="36"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:30-11:00">
      
@@ -17081,16 +17081,16 @@
      <Activity id="49"></Activity><Teacher name="Jan Edizon J. De Silva"></Teacher><Subject name="GNED 01"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="29"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="29"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="29"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="29"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 10"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00-17:30">
      
@@ -17256,16 +17256,16 @@
      
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="36"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="36"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="36"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="36"></Activity><Teacher name="Crisostomo Sibulo"></Teacher><Subject name="GNED 02"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:30-20:00">
      
