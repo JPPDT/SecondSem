@@ -591,13 +591,13 @@
 <Activity>
 	<Id>99</Id>
 	<Day>Tuesday</Day>
-	<Hour>18:00-18:30</Hour>
+	<Hour>12:00-12:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>100</Id>
 	<Day>Thursday</Day>
-	<Hour>17:00-17:30</Hour>
+	<Hour>08:00-08:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -837,13 +837,13 @@
 <Activity>
 	<Id>140</Id>
 	<Day>Thursday</Day>
-	<Hour>10:00-10:30</Hour>
+	<Hour>09:30-10:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>141</Id>
-	<Day>Thursday</Day>
-	<Hour>12:30-13:00</Hour>
+	<Day>Tuesday</Day>
+	<Hour>07:00-7:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -855,91 +855,91 @@
 <Activity>
 	<Id>143</Id>
 	<Day>Thursday</Day>
-	<Hour>15:00-15:30</Hour>
+	<Hour>07:30-08:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>144</Id>
-	<Day>Tuesday</Day>
-	<Hour>08:00-08:30</Hour>
+	<Day>Thursday</Day>
+	<Hour>16:30-17:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>145</Id>
-	<Day>Wednesday</Day>
-	<Hour>15:00-15:30</Hour>
+	<Day>Tuesday</Day>
+	<Hour>11:00-11:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>146</Id>
 	<Day>Wednesday</Day>
-	<Hour>07:30-08:00</Hour>
+	<Hour>07:00-7:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>147</Id>
-	<Day>Tuesday</Day>
-	<Hour>12:00-12:30</Hour>
+	<Day>Wednesday</Day>
+	<Hour>15:30-16:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>148</Id>
 	<Day>Thursday</Day>
-	<Hour>08:00-08:30</Hour>
+	<Hour>13:00-13:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>149</Id>
-	<Day>Thursday</Day>
-	<Hour>16:00-16:30</Hour>
-	<Room></Room>
-</Activity>
-<Activity>
-	<Id>150</Id>
-	<Day>Tuesday</Day>
-	<Hour>12:00-12:30</Hour>
-	<Room></Room>
-</Activity>
-<Activity>
-	<Id>151</Id>
-	<Day>Tuesday</Day>
-	<Hour>18:00-18:30</Hour>
-	<Room></Room>
-</Activity>
-<Activity>
-	<Id>152</Id>
-	<Day>Wednesday</Day>
-	<Hour>16:30-17:00</Hour>
-	<Room></Room>
-</Activity>
-<Activity>
-	<Id>153</Id>
 	<Day>Tuesday</Day>
 	<Hour>09:30-10:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
-	<Id>154</Id>
-	<Day>Tuesday</Day>
-	<Hour>15:00-15:30</Hour>
+	<Id>150</Id>
+	<Day>Thursday</Day>
+	<Hour>08:00-08:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
-	<Id>155</Id>
+	<Id>151</Id>
+	<Day>Tuesday</Day>
+	<Hour>12:30-13:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>152</Id>
 	<Day>Wednesday</Day>
 	<Hour>09:00-09:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
+	<Id>153</Id>
+	<Day>Tuesday</Day>
+	<Hour>07:00-7:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>154</Id>
+	<Day>Wednesday</Day>
+	<Hour>13:30-14:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>155</Id>
+	<Day>Wednesday</Day>
+	<Hour>17:30-18:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
 	<Id>156</Id>
 	<Day>Thursday</Day>
-	<Hour>13:30-14:00</Hour>
+	<Hour>15:30-16:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>157</Id>
 	<Day>Wednesday</Day>
-	<Hour>13:30-14:00</Hour>
+	<Hour>11:00-11:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
