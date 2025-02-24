@@ -1970,16 +1970,16 @@
      
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="252"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="252"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="252"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="252"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30-16:00">
      
@@ -2151,16 +2151,16 @@
      
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="252"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="252"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:00-18:30">
-     
+     <Activity id="252"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="252"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:00-19:30">
      
@@ -6391,16 +6391,16 @@
      
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="254"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="254"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="254"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="254"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00-16:30">
      
@@ -6515,16 +6515,16 @@
      
     </Hour>
     <Hour name="08:00-08:30">
-     
+     <Activity id="254"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="08:30-09:00">
-     
+     <Activity id="254"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:00-09:30">
-     
+     <Activity id="254"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:30-10:00">
-     
+     <Activity id="254"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="10:00-10:30">
      
@@ -7018,19 +7018,19 @@
      
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="255"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="12:00-12:30">
-     <Activity id="255"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="255"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="255"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="255"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="255"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="255"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="255"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00-14:30">
      <Activity id="10"></Activity><Teacher name="Anacleto Marcelino"></Teacher><Subject name="GNED 14"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -7447,16 +7447,16 @@
      <Activity id="28"></Activity><Teacher name="Christian Joy G. Sebastian"></Teacher><Subject name="FITT 4"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="256"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="256"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="256"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="256"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="MKTG 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:00-18:30">
      
@@ -7515,37 +7515,37 @@
      
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="253"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="253"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="264"></Activity><Teacher name="Isaiah Jacob O. Carolino"></Teacher><Subject name="MKTG 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="253"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="264"></Activity><Teacher name="Isaiah Jacob O. Carolino"></Teacher><Subject name="MKTG 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="253"></Activity><Teacher name="Johnny Rick S. Apellanes"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="264"></Activity><Teacher name="Isaiah Jacob O. Carolino"></Teacher><Subject name="MKTG 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="264"></Activity><Teacher name="Isaiah Jacob O. Carolino"></Teacher><Subject name="MKTG 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="264"></Activity><Teacher name="Isaiah Jacob O. Carolino"></Teacher><Subject name="MKTG 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="264"></Activity><Teacher name="Isaiah Jacob O. Carolino"></Teacher><Subject name="MKTG 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="264"></Activity><Teacher name="Isaiah Jacob O. Carolino"></Teacher><Subject name="MKTG 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="253"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="264"></Activity><Teacher name="Isaiah Jacob O. Carolino"></Teacher><Subject name="MKTG 70"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="253"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="253"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:00-19:30">
-     
+     <Activity id="253"></Activity><Teacher name="Atty. Charmaine A. Gabelo"></Teacher><Subject name="BADM 25"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:30-20:00">
      
@@ -13106,16 +13106,16 @@
      
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="231"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="231"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="231"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="231"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30-11:00">
      <Activity id="162"></Activity><Teacher name="Audrey Gerard D. Advincula"></Teacher><Subject name="ITEC 100"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -13219,16 +13219,16 @@
      <Activity id="229"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 200A"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="231"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="231"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="231"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:30-16:00">
-     
+     <Activity id="231"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
      
@@ -13511,16 +13511,16 @@
      
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="232"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="232"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="232"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="232"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:00-11:30">
      
@@ -13713,16 +13713,16 @@
      
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="232"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="232"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="232"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="232"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="ITEC 95"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:00-18:30">
      
@@ -18825,37 +18825,37 @@
      
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="161"></Activity><Teacher name="Joyce Erika S. Senaris"></Teacher><Subject name="ITEC 200B"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="161"></Activity><Teacher name="Joyce Erika S. Senaris"></Teacher><Subject name="ITEC 200B"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="161"></Activity><Teacher name="Joyce Erika S. Senaris"></Teacher><Subject name="ITEC 200B"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="161"></Activity><Teacher name="Joyce Erika S. Senaris"></Teacher><Subject name="ITEC 200B"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="161"></Activity><Teacher name="Joyce Erika S. Senaris"></Teacher><Subject name="ITEC 200B"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:30-14:00">
      <Activity id="161"></Activity><Teacher name="Joyce Erika S. Senaris"></Teacher><Subject name="ITEC 200B"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="161"></Activity><Teacher name="Joyce Erika S. Senaris"></Teacher><Subject name="ITEC 200B"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="161"></Activity><Teacher name="Joyce Erika S. Senaris"></Teacher><Subject name="ITEC 200B"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="161"></Activity><Teacher name="Joyce Erika S. Senaris"></Teacher><Subject name="ITEC 200B"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="161"></Activity><Teacher name="Joyce Erika S. Senaris"></Teacher><Subject name="ITEC 200B"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="161"></Activity><Teacher name="Joyce Erika S. Senaris"></Teacher><Subject name="ITEC 200B"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30-17:00">
      
